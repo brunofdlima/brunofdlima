@@ -16,10 +16,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
-  <img src="https://aleen42.github.io/badges/src/illustrator.svg" target="_blank"></a>
-  <img src="https://aleen42.github.io/badges/src/photoshop.svg" target="_blank"></a>
-  <img src="https://aleen42.github.io/badges/src/dreamweaver.svg" target="_blank"></a>
-  <img src="https://aleen42.github.io/badges/src/after_effects.svg" target="_blank"></a>
 
 </div>
   
