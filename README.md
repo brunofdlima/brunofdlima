@@ -15,10 +15,12 @@
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
   <img src="https://aleen42.github.io/badges/src/illustrator.svg" target="_blank"></a>
   <img src="https://aleen42.github.io/badges/src/photoshop.svg" target="_blank"></a>
   <img src="https://aleen42.github.io/badges/src/dreamweaver.svg" target="_blank"></a>
   <img src="https://aleen42.github.io/badges/src/after_effects.svg" target="_blank"></a>
+
 </div>
   
   ## Socials
@@ -28,7 +30,6 @@
  <a href="https://discord.gg/F83Cna5G" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:brunofor14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-ferreira-dias-de-lima-317022216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
   </div>
   
   ## Specs
