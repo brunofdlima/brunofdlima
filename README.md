@@ -39,7 +39,7 @@
   ## Specs
   
   <div>
-  <img src="https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/AMD-Ryzen_5_5600G-ED1C24?style=for-the-badge&logo=amd&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" target="_blank"></a>
   </div>
   
