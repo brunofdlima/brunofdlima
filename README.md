@@ -1,7 +1,7 @@
 ### Hello world! 💎
 
 - 🎓 Unigrande - Ciências da computação
-- 🌱 Aprimorando Front-end
+- 🌱 Desenvolvimento Front-end
 
 <div align="center">
   <a href="https://github.com/brunofdlima">
