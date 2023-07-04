@@ -1,7 +1,8 @@
 ### Hello world! 💎
 
-- 🎓 Unigrande - Ciências da computação
+- 🎓 Unigrande - Cientista de dados
 - 🌱 Desenvolvimento Front-end
+- 💎 Aprimorando Back-end
 
 <div align="center">
   <a href="https://github.com/brunofdlima">
