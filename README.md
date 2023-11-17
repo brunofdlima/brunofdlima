@@ -5,7 +5,7 @@
 - 💎 Aprimorando Back-end
 
 <div align="center">
-  <a href="https://github.com/brunoofdl">
+  <a href="https://github.com/brunofdlima">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofdlima&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
@@ -32,7 +32,7 @@
   ## Socials
   
   <div> 
-  <a href="https://instagram.com/bruno.fll_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/brunoofdl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/F83Cna5G" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/bruno-ferreira-dias-de-lima-317022216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
